@@ -1,0 +1,38 @@
+/**index.wxss**/
+/**app.wxss**/
+.banner,banner image{
+  width: 100%;
+  height: 600rpx;
+}
+.card{
+  width: 94%;
+  margin: 0 auto;
+}
+.card_title{
+  color: #000;
+  font-weight: bold;
+  font-size: 32rpx;
+  line-height: 100rpx;
+}
+.card_choose{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.cardChilde{
+  width: 46%;
+  border-radius: 20rpx;
+  background: #fff;
+  text-align: center;
+  margin-bottom: 30rpx;
+  box-shadow:  0 6rpx 10rpx #ababab;
+}
+.cardChilde image{
+  width: 100%;
+  height: 200rpx;
+}
+.card_name{
+  font-weight: bold;
+  padding-bottom: 20rpx;
+}

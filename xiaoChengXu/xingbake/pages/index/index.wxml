@@ -1,0 +1,56 @@
+<!--index.wxml-->
+<view class='banner'>
+    <image src="/images/01banner.png"></image>
+</view> 
+
+<view class="card">
+  <view class='card_title'>请朋友喝咖啡</view>
+  <view class='card_choose'>
+    <view class='cardChilde'>
+      <image src="/images/card01.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card02.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+  </view>
+</view> 
+
+<view class="card">
+  <view class='card_title'>请朋友喝咖啡</view>
+  <view class='card_choose'>
+    <view class='cardChilde'>
+      <image src="/images/card01.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card02.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card03.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card04.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card05.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card06.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card07.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+    <view class='cardChilde'>
+      <image src="/images/card08.jpg"></image>
+      <view class='card_name'>给特别的你</view>
+    </view>
+  </view>
+</view> 
